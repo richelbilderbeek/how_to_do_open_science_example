@@ -52,11 +52,23 @@ Richèl J.C. Bilderbeek
 Step 1: Setup
 -------------
 
- * [Create GitHub repository](https://github.com/richelbilderbeek/k3_article), copy [this one](https://github.com/richelbilderbeek/travis_make_pdflatex)
- * Activate Travis CI
- * Show Travis CI build badge
- * Write stub article
- * Let Travis CI build article
+ * Goals: 
+   * repeat (stub of) research yourself
+   * repeat (stub of) research by something else
+   * obtain a time-stamped version
+ * [Create GitHub repository](https://github.com/richelbilderbeek/k3_article)
+   * to obtain time-stamped versions
+ * Copy [a similar repository](https://github.com/richelbilderbeek/travis_make_pdflatex)
+   * repeat research yourself
+   * repeat research by Travis CI
+ * Repeat research yourself, using a makefile
+   * Write stub article
+   * `make` and view
+ * Repeat research by Travis CI
+   * Activate Travis CI
+   * Set Travis CI build badge
+   * Let Travis CI repeat research
+ * Add time-stamp to article
 
 Step 2: Hypotheses
 ------------------
