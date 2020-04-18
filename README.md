@@ -6,7 +6,7 @@ How to do Open Science research. Step 0: Why?
 Step|Description|YouTube link                        |Download link
 ----|-----------|------------------------------------|--------------
    0|Why?       |[Here](https://youtu.be/s4hsBBhEabs)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_0.ogv)
-   1|Setup      |(not yet) Here                      |(not yet) Here 
+   1|Setup      |[Here](https://youtu.be/mEvYOt8VOFU)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_1.webm)
    2|Hypotheses |(not yet) Here                      |(not yet) Here 
    3|Method     |(not yet) Here                      |(not yet) Here 
    4|Conclusion |(not yet) Here                      |(not yet) Here 
