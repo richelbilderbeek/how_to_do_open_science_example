@@ -113,3 +113,7 @@ Step 4: Conclusion
  * Add time-stamp to article
  * Submit to journal
 
+## Links
+
+ * [Travis make tutorial](https://github.com/richelbilderbeek/travis_make_tutorial)
+
