@@ -38,10 +38,12 @@ Hypotheses -> Methods -> Results -> Conclusion
  * Reproducible research is hard
    * Reproducible in 'do it again'
 
-> If you assume your research will not be repeated,
-> you can safely assume your research will not be repeated
->
-> Richèl J.C. Bilderbeek
+```
+If you assume your research will not be repeated,
+you can safely assume your research will not be repeated
+
+Richèl J.C. Bilderbeek
+```
 
  * Trustworthy research is different
    * Prevent HARKing
