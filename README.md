@@ -52,7 +52,7 @@ Richèl J.C. Bilderbeek
 Step 1: Setup
 -------------
 
- * Create GitHub repository
+ * [Create GitHub repository](https://github.com/richelbilderbeek/k3_article), copy [this one](https://github.com/richelbilderbeek/travis_make_pdflatex)
  * Activate Travis CI
  * Show Travis CI build badge
  * Write stub article
