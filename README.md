@@ -23,11 +23,26 @@ Step 0: Why?
  * Why Open Science?
    * Better way to knowledge
    * More logical workflow
+
+```
+Hypotheses <-> Methods <-> Results <-> Conclusion
+
+versus
+
+Hypotheses -> Methods -> Results -> Conclusion
+```
+
  * What is Open Science?
    * Reproducible
    * Trustworthy
  * Reproducible research is hard
    * Reproducible in 'do it again'
+
+> If you assume your research will not be repeated,
+> you can safely assume your research will not be repeated
+>
+> Richèl J.C. Bilderbeek
+
  * Trustworthy research is different
    * Prevent HARKing
 
