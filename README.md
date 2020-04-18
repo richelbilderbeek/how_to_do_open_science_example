@@ -81,6 +81,7 @@ Step 2: Hypotheses
    * Results, with stub figures 
    * Conclusion
    * Discussion
+ * `make` and view
  * Add time-stamp to article
  * Ask for review
    * Do the hypotheses naturally follow the introduction?
