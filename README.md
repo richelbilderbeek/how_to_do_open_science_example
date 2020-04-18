@@ -1,14 +1,15 @@
 # how_to_do_open_science_example
 
 An example of how to do Open Science, shown in the videos below:
+How to do Open Science research. Step 0: Why?
 
-Step|Description|YouTube link   |Download link
-----|-----------|---------------|--------------
-   0|Why?       |(not yet) Here |(not yet) Here 
-   1|Setup      |(not yet) Here |(not yet) Here 
-   2|Hypotheses |(not yet) Here |(not yet) Here 
-   3|Method     |(not yet) Here |(not yet) Here 
-   4|Conclusion |(not yet) Here |(not yet) Here 
+Step|Description|YouTube link                        |Download link
+----|-----------|------------------------------------|--------------
+   0|Why?       |[Here](https://youtu.be/s4hsBBhEabs)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_0.ogv)
+   1|Setup      |(not yet) Here                      |(not yet) Here 
+   2|Hypotheses |(not yet) Here                      |(not yet) Here 
+   3|Method     |(not yet) Here                      |(not yet) Here 
+   4|Conclusion |(not yet) Here                      |(not yet) Here 
 
 This example uses only gratis (free as in beer) and/or 
 libre (free as in freedom) and/or open-source tools,
