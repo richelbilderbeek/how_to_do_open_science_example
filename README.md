@@ -8,7 +8,7 @@ Step|Description|YouTube link                        |Download link
    0|Why?       |[Here](https://youtu.be/s4hsBBhEabs)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_0.ogv)
    1|Setup      |[Here](https://youtu.be/mEvYOt8VOFU)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_1.webm)
    2|Hypotheses |[Here](https://youtu.be/7BfZqdn2eYc)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_2.webm)
-   3|Method     |(not yet) Here                      |(not yet) Here 
+   3|Method     |[Here](https://youtu.be/Zj1fb-Izrko)|[Here](http://richelbilderbeek.nl/how_to_do_open_science_3.webm)
    4|Conclusion |(not yet) Here                      |(not yet) Here 
 
 This example uses only gratis (free as in beer) and/or 
