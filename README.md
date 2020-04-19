@@ -97,10 +97,11 @@ Step 3: Method
  * Write vignette
    * Do methods on artificial data
    * Create figures from artificial data
- * Let Travis CI build vignette
  * Update article
    * Methods
    * Results
+   * `make` and view
+ * Let Travis CI build article
  * Add time-stamp to article
  * Ask for review
    * Is the method correct?
