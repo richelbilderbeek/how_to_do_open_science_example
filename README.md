@@ -95,6 +95,7 @@ Step 3: Method
 --------------
 
  * Write vignette
+   * Test methods
    * Do methods on artificial data
    * Create figures from artificial data
  * Update article
