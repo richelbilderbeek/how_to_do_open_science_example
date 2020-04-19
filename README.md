@@ -101,7 +101,9 @@ Step 3: Method
  * Update article
    * Methods
    * Results
+   * Conclusion
    * Discussion
+   * Supplementary materials
    * `make` and view
  * Let Travis CI build article
  * Add time-stamp to article
